@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-node_modules
-=======
 # Logs
 logs
 *.log
@@ -25,5 +22,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-.env
->>>>>>> master
+.envnode_modules
